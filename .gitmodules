@@ -1,3 +1,6 @@
 [submodule "Firmware"]
 	path = Firmware
 	url = https://github.com/Duallife/ARM.git
+[submodule "Software/ROS_ws"]
+	path = Software/ROS_ws
+	url = https://github.com/Duallife/ROS2-Arm-Control.git
