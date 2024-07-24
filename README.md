@@ -39,27 +39,16 @@ The project aims to create a ultra low cost robot arm with steppers and 3d print
 - (Bambu Lab A1mini is used)
 - (Recommended printing parameter will be list inside <strong>/Hardware</strong>)
 
-
-## Getting Started
-### System Setup
-- A Linux Distro
+## System Requirement
+- PlatformIO environment
+- A Linux Distro (For ROS2 Control)
   - ROS2 Humble
   - Rviz2
   - Moveit2!
   - Gazebo
   - Other Common dependencies
-- PlatformIO environment
 
-<!-- # Check the arm in action! -->
-
-<!-- # Where to start?  -->
-
-# Current Capability
-- Forward and Inverse Kinematic on board process
-- Control via Serial port
-- Serial communication with ROS2 using micro-ros 
-
-# TODO -->
+## TODO -->
 - Structure integrity improvements for joints
 - GUI application
 - Close loop position control, speed control of motors with low cost
