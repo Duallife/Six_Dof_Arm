@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-# Faze4-Robotic-arm
+# Ultra Low Cost 6Dof Robot Arm
 
 # Check the arm in action!
 
