@@ -10,8 +10,9 @@ The project aims to create a ultra low cost robot arm with steppers and 3d print
 - Esp32 wroom-32 38pins
 - TMC2208/TMC2209/A4988 stepper motor controller * 6
 - 128*80 SPI TFT screen
-- EC11B series encoder (through hole)
-- 24V3A DC power supply or above
+- EC11B series encoder (through hole component)
+- 24V3A DC power supply or above (Power under 72W not recommended)
+- M3 Screws -> from 6mm to 50mm
 - Some through hole LED
 - Some through hole Resistors
 - Lubricating Oil 
@@ -51,7 +52,7 @@ The project aims to create a ultra low cost robot arm with steppers and 3d print
 ## TODO -->
 - Structure integrity improvements for joints
 - GUI application
-- Close loop position control, speed control of motors with low cost
+- Close loop control for motors
 
 
 ### Project is under MIT Licence
